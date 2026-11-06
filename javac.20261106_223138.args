@@ -1,0 +1,8 @@
+-proc:none
+-Xmaxerrs
+10000
+-d
+/tmp/javac-parse
+src/main/java/com/example/punchsnowball/FrostEvents.java
+src/main/java/com/example/punchsnowball/FrostTooltips.java
+src/main/java/com/example/punchsnowball/PunchSnowballPlugin.java

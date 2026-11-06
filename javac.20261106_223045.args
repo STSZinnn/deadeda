@@ -1,0 +1,7 @@
+-proc:none
+-XDshould-stop.at=PARSE
+-d
+/tmp/javac-parse
+src/main/java/com/example/punchsnowball/FrostEvents.java
+src/main/java/com/example/punchsnowball/FrostTooltips.java
+src/main/java/com/example/punchsnowball/PunchSnowballPlugin.java
